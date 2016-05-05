@@ -1,0 +1,28 @@
+name: Mom + Vegan
+favicon: null
+layout_spectrum: 0.15562141430564225
+typography_spectrum: 0.8120802715420723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7145566567778587
+  lightness: 0.6290238811634481
+  saturation: 0.3020924737211317
+  rhythmicContrast: 0.6438558204099536
+purpose: []
